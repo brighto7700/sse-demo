@@ -5,7 +5,7 @@
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sse-demo.pxxl.click)
 
-This repository is the companion code for the DEV.to article: **[Your Next Real-Time Feature Probably Doesn't Need WebSockets](https://dev.to/brighto7700/your-next-real-time-feature-probably-doesnt-need-websockets-go-sse-at-500-concurrent-connections)**.
+This repository is the companion code for the DEV.to article: **[Your Next Real-Time Feature Probably Doesn't Need WebSockets](https://dev.to/brighto7700/your-next-real-time-feature-probably-doesnt-need-websockets-go-sse-at-500-concurrent-connections-39ne)**.
 
 It demonstrates how to build a unidirectional real-time data stream (a live viewer counter and server clock) using Go and Server-Sent Events. Zero dependencies on the server. Zero npm packages on the client.
 
